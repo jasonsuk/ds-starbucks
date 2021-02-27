@@ -25,7 +25,7 @@ The intention is to save time and costs involved in decision making and communic
 
 <a id="results"></a>
 
-The results are discussed at my personal post <a href="https://medium.com/@sukjh87/a-sneak-peak-at-airbnb-business-using-useful-python-data-analysis-tools-661d42cad666">here</a>.
+The results are discussed at my personal post <a href="https://sukjh87.medium.com/a-10-minute-guide-to-understanding-and-predicting-behaviors-of-customers-using-the-starbucks-533425134e96">here</a>.
 
 <br>
 
