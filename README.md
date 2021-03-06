@@ -69,9 +69,9 @@ Two folders are to contain data used for the analysis.
     | clf_linearsvc.pkl    | SVM           |  71.86%  |  0.72/0.72 |
 
     <br>
-    **NOTE** : the performance may vary 1-2% 
+    <b>NOTE</b> : the performance may vary 1-2% 
 
-    For this dataset, a classifier model built with random forest performed the best with the accuracy of 82% and f1-score of 82% and similar performance was observed with decision tree.
+    For this dataset, a classifier model built with decision tree performed the best with the accuracy of 83% and f1-score of 82% and similar performance was observed with random forest.
 
     On the other hand, support vector classifier (linear without kernel) did not produce a good result despite computationally expensive operations.
 
